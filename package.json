@@ -1,0 +1,26 @@
+{
+  "name": "empoderate-salon",
+  "version": "1.0.0",
+  "description": "Sitio web oficial del salón de belleza Empodérate",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "start": "python3 -m http.server 8000",
+    "build": "echo 'Static site - no build required'"
+  },
+  "keywords": [
+    "salon",
+    "belleza",
+    "estilismo",
+    "maquillaje",
+    "uñas",
+    "cejas"
+  ],
+  "author": "Empodérate",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NegroHm/empoderate.git"
+  },
+  "homepage": "https://github.com/NegroHm/empoderate#readme"
+}
