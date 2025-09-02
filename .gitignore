@@ -38,5 +38,3 @@ build/
 *.tmp
 *.temp
 
-# Vercel
-.vercel
